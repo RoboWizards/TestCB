@@ -1,4 +1,4 @@
 TestCB
 ======
 
-Repo used for testing command based approach in Java WPlib for FRC
+Repo used for testing command based approach in Java WPIlib for FRC
